@@ -22,7 +22,7 @@
     height: 500px;
     margin: 10px;
     border-radius: 50px;
-    background: url(img/zola.jpg);
+    background: url(https://cdn.pixabay.com/photo/2016/03/27/22/04/camera-1284459__340.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -31,42 +31,42 @@
     box-shadow: 0 20px 30px rgb(3, 3, 3);
 }
 .img-box:nth-child(2){
-    background: url(img/super-woman-ge54743ee7_1920.jpg);
+    background: url(https://cdn.pixabay.com/photo/2018/04/25/09/26/eiffel-tower-3349075__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(3){
-    background: url(img/ladybugs.jpg);
+    background: url(https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(4){
-    background: url(img/office.jpg);
+    background: url(https://cdn.pixabay.com/photo/2015/06/24/16/36/office-820390__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(5){
-    background: url(img/robot.jpg);
+    background: url(https://cdn.pixabay.com/photo/2023/01/10/20/04/ai-generated-7710456__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(6){
-    background: url(img/brazil.jpg);
+    background: url(https://cdn.pixabay.com/photo/2020/01/31/21/25/brazil-4809011__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(7){
-    background: url(img/brasília.jpg);
+    background: url(https://cdn.pixabay.com/photo/2016/11/29/13/37/christmas-1869902__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(8){
-    background: url(img/eiffel-tower.jpg);
+    background: url(https://cdn.pixabay.com/photo/2018/12/29/14/11/barcelona-3901449__340.jpg);
     background-size: cover;
     background-position: center;
 }
 .img-box:nth-child(9){
-    background: url(img/são\ paulo.jpg);
+    background: url(https://cdn.pixabay.com/photo/2022/10/16/13/17/road-7525091__340.jpg);
     background-size: cover;
     background-position: center;
 }
